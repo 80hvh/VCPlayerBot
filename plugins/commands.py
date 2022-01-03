@@ -129,7 +129,7 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/hh83h'),
             InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/VCPlayerBot')
         ],
         [
@@ -189,7 +189,7 @@ async def repo_(client, message):
     buttons = [
         [
             InlineKeyboardButton('🧩 Repository', url='https://github.com/subinps/VCPlayerBot'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),     
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/hh83h'),     
         ],
         [
             InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
